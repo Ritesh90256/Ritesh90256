@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
-<h3 align="center">Agentic AI Developer from Bangalore, India</h3>
+<h3 align="center">Developer from Bangalore, India</h3>
 
 <img align="right" alt="AI" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
