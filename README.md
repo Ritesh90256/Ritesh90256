@@ -7,11 +7,12 @@
 
 - 🤖 Building **Agentic AI systems** using CrewAI, LangGraph, AutoGen and OpenAI Agents SDK
 - 🧠 Passionate about **multi-agent workflows, autonomous systems and AI automation**
+- 🧬 Exploring **digital twins & human physiology simulation** — bridging AI with biomedical modelling
 - 🎓 3rd Year CSE student at **PES University, Bangalore**
 - 🏆 Top 10 in Nationwide Gen AI Challenge by Great Learning
-- 💬 Ask me about **AI Agents, Multi-Agent Systems, LLMs, Agentic Pipelines**
+- 💬 Ask me about **AI Agents, Multi-Agent Systems, LLMs, Agentic Pipelines, Digital Twins**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
-- ⚡ Fun fact: I deployed a 4-agent engineering team that builds and tests software on its own
+- ⚡ Fun fact: I built a digital twin of a human astronaut that simulates 30 days of physiological fatigue in space
 
 ---
 
@@ -40,6 +41,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=python&logoColor=white)
 
+**Simulation & Visualisation**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![BioGears](https://img.shields.io/badge/BioGears-8B0000?style=for-the-badge&logo=python&logoColor=white)
+
 **Languages & Tools**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -66,6 +73,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [Astronaut Fatigue Digital Twin](https://github.com/Ritesh90256/astronaut-fatigue-digital-twin) | Digital twin simulating astronaut fatigue & sleep deprivation over a 30-day space mission with Monte Carlo analysis | BioGears, Python, Unity 3D |
 | [Multi-Robot Task Allocation](https://github.com/Ritesh90256/multi-robot-task-allocation) | Autonomous robots using CBBA, RVO2 and A* — implemented from scratch | Python, Pygame, NumPy |
 | 4-Agent Engineering Team | Deployed 4 agents to manage, build and test software autonomously inside Docker | CrewAI, Docker |
 | Operator Agent Sidekick | Browser-based agent that runs developer tasks inside the browser | LangGraph, OpenAI |
