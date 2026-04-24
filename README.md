@@ -12,6 +12,7 @@
 - 🏆 Top 10 in Nationwide Gen AI Challenge by Great Learning
 - 💬 Ask me about **AI Agents, Multi-Agent Systems, LLMs, Agentic Pipelines, Digital Twins**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
+- - 🌐 Portfolio: [ritesh90256.github.io/portfolio](https://Ritesh90256.github.io/portfolio)
 - ⚡ Fun fact: I built a digital twin of a human astronaut that simulates 30 days of physiological fatigue in space
 
 ---
@@ -21,6 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-minchinal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritesh90256)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshminchinal365@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://Ritesh90256.github.io/portfolio)
 
 ---
 
