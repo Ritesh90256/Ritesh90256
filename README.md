@@ -10,7 +10,7 @@
 - 🧬 Exploring **digital twins & human physiology simulation** — bridging AI with biomedical modelling
 - 🎓 3rd Year CSE student at **PES University, Bangalore**
 - 🏆 Top 10 in Nationwide Gen AI Challenge by Great Learning
-- 💬 Ask me about **AI Agents, Multi-Agent Systems, LLMs, Agentic Pipelines, Digital Twins**
+- 💬 Ask me about **AI Agents, Reinforcement Learning, Digital Twins, Multi-Robot Systems**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
 - 🌐 Portfolio: [ritesh90256.github.io/portfolio](https://Ritesh90256.github.io/portfolio)
 - ⚡ Fun fact: I Love playing Sports
@@ -77,10 +77,9 @@
 |---|---|---|
 | [Astronaut Fatigue Digital Twin](https://github.com/Ritesh90256/astronaut-fatigue-digital-twin) | Digital twin simulating astronaut fatigue & sleep deprivation over a 30-day space mission with Monte Carlo analysis | BioGears, Python, Unity 3D |
 | [Multi-Robot Task Allocation](https://github.com/Ritesh90256/multi-robot-task-allocation) | Autonomous robots using CBBA, RVO2 and A* — implemented from scratch | Python, Pygame, NumPy |
-| 4-Agent Engineering Team | Deployed 4 agents to manage, build and test software autonomously inside Docker | CrewAI, Docker |
-| Operator Agent Sidekick | Browser-based agent that runs developer tasks inside the browser | LangGraph, OpenAI |
-| Agent Creator | Programmatically builds and launches new agents on demand | AutoGen, Python |
-| Career Digital Twin | Personal AI agent that represents me to potential employers | OpenAI Agents SDK |
+| [Pac-Man Deep Q-Learning](https://github.com/Ritesh90256/pacman-deepq-learning) | DQN agent trained to play Ms. Pac-Man with experience replay and target networks | PyTorch, Gymnasium |
+| [KungFu A3C Agent](https://github.com/Ritesh90256/kungfu-a3c-agent) | A3C agent with parallel environments and shared network to play KungFu Master | PyTorch, Gymnasium |
+| [Lunar Lander DQN](https://github.com/Ritesh90256/lunar-lander-dqn-agent) | DQN agent solving LunarLander-v3 with experience replay | PyTorch, Google Colab |
 
 ---
 
