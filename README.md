@@ -86,7 +86,7 @@
 ### 🎖️ Achievements
 
 - 🥇 Top 10 in Nationwide Gen AI Challenge — Great Learning
-- 🏅 1x Distinction Award — PES University
+- 🏅 2x Distinction Award — PES University
 
 ---
 
