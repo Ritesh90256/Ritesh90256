@@ -94,7 +94,6 @@
 
 - 🥇 Top 10 in Nationwide Gen AI Challenge — Great Learning
 - 🏅 2x Distinction Award — PES University
-- 🚀 Selected for PESU Venture Labs' Acceleration & Bootcamp Cohort (ABC) 2026 — building Vigil
 
 ---
 
