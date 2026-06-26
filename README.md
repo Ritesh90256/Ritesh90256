@@ -5,6 +5,7 @@
 
 ### 🚀 About Me
 
+- 🛡️ Building **Vigil**, an open-source observability platform that automatically diagnoses why AI agents fail in production
 - 🤖 Building **Agentic AI systems** using CrewAI, LangGraph, AutoGen and OpenAI Agents SDK
 - 🧠 Passionate about **multi-agent workflows, autonomous systems and AI automation**
 - 🧬 Exploring **digital twins & human physiology simulation** — bridging AI with biomedical modelling
@@ -43,6 +44,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=python&logoColor=white)
 
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 **Simulation & Visualisation**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -55,8 +63,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
@@ -75,6 +81,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [🛡️ Vigil](https://github.com/Ritesh90256/vigil) | **Actively building.** Open-source observability platform that captures every LLM call & tool use from an AI agent and auto-classifies failures (hallucination, tool misuse, infinite loops, prompt injection, and more) | Python, FastAPI, PostgreSQL, LLM-as-Judge |
 | [Astronaut Fatigue Digital Twin](https://github.com/Ritesh90256/astronaut-fatigue-digital-twin) | Digital twin simulating astronaut fatigue & sleep deprivation over a 30-day space mission with Monte Carlo analysis | BioGears, Python, Unity 3D |
 | [Multi-Robot Task Allocation](https://github.com/Ritesh90256/multi-robot-task-allocation) | Autonomous robots using CBBA, RVO2 and A* — implemented from scratch | Python, Pygame, NumPy |
 | [Pac-Man Deep Q-Learning](https://github.com/Ritesh90256/pacman-deepq-learning) | DQN agent trained to play Ms. Pac-Man with experience replay and target networks | PyTorch, Gymnasium |
@@ -87,6 +94,7 @@
 
 - 🥇 Top 10 in Nationwide Gen AI Challenge — Great Learning
 - 🏅 2x Distinction Award — PES University
+- 🚀 Selected for PESU Venture Labs' Acceleration & Bootcamp Cohort (ABC) 2026 — building Vigil
 
 ---
 
