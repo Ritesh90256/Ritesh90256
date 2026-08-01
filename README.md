@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
+<img width="380" height="326" alt="image" src="https://github.com/user-attachments/assets/13a51144-7ae6-4993-90d0-333340df8def" /><h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
 <h3 align="center">Developer from Bangalore, India</h3>
 
 <img align="right" alt="AI" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
@@ -14,6 +14,7 @@
 - 💬 Ask me about **AI Agents, Reinforcement Learning, Digital Twins, Multi-Robot Systems**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
 - 🌐 Portfolio: [ritesh90256.github.io/portfolio](https://Ritesh90256.github.io/portfolio)
+- LeetCode : https://leetcode.com/u/Raiden_36/
 - ⚡ Fun fact: I Love playing Sports
 
 ---
