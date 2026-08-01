@@ -1,4 +1,4 @@
-<img width="380" height="326" alt="image" src="https://github.com/user-attachments/assets/13a51144-7ae6-4993-90d0-333340df8def" /><h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
+<h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
 <h3 align="center">Developer from Bangalore, India</h3>
 
 <img align="right" alt="AI" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
