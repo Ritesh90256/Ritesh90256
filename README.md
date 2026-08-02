@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
 <h3 align="center">Developer from Bangalore, India</h3>
 
-<img align="right" alt="AI" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhxa3JvazM5ZzNpNjUxeGV5aGd0bjZ2MDFwaDIzNXludHhoMzZ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+<img align="right" alt="AI" width="300" src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 ### 🚀 About Me
 
-- 🛡️ Building **Vigil**, an open-source observability platform that automatically diagnoses why AI agents fail in production
+- Always Leveling UP!
 - 🎓 4th Year CSE student at **PES University, Bangalore**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
 - 🌐 Portfolio: [ritesh90256.github.io/portfolio](https://Ritesh90256.github.io/portfolio)
