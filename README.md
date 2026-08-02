@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritesh Minchinal</h1>
 <h3 align="center">Developer from Bangalore, India</h3>
 
-<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" alt="AI" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhxa3JvazM5ZzNpNjUxeGV5aGd0bjZ2MDFwaDIzNXludHhoMzZ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 ### 🚀 About Me
 
 - 🛡️ Building **Vigil**, an open-source observability platform that automatically diagnoses why AI agents fail in production
-- 🤖 Building **Agentic AI systems** using CrewAI, LangGraph, AutoGen and OpenAI Agents SDK
-- 🧠 Passionate about **multi-agent workflows, autonomous systems and AI automation**
-- 🧬 Exploring **digital twins & human physiology simulation** — bridging AI with biomedical modelling
-- 🎓 3rd Year CSE student at **PES University, Bangalore**
-- 🏆 Top 10 in Nationwide Gen AI Challenge by Great Learning
-- 💬 Ask me about **AI Agents, Reinforcement Learning, Digital Twins, Multi-Robot Systems**
+- 🎓 4th Year CSE student at **PES University, Bangalore**
 - 📫 Reach me at **riteshminchinal365@gmail.com**
 - 🌐 Portfolio: [ritesh90256.github.io/portfolio](https://Ritesh90256.github.io/portfolio)
 - LeetCode : https://leetcode.com/u/Raiden_36/
